@@ -1,7 +1,7 @@
 create database ICIC_BANK_MANAGEMENT; 
 Use ICIC_BANK_MANAGEMENT;
 
--- Table1:- Account Type
+-- Table1:- Account Type of account holder
 CREATE TABLE Account_Type (
     Account_no INT PRIMARY KEY,
     Type_Account VARCHAR(255),
